@@ -6,6 +6,7 @@ class Foo
   end
 
   def say
+    puts "hello"
     puts msg_getter
   end
 end
