@@ -6,6 +6,7 @@ class Bar
   end
 
   def say
+    puts "hi"
     puts msg_getter
   end
 end
