@@ -1,5 +1,5 @@
 class Bar
-  MSG = "bar"
+  MSG = "barbar"
 
   def msg_getter
     MSG
